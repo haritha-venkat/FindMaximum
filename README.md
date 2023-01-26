@@ -13,7 +13,7 @@ To write a program to find the maximum of a list of numbers.
 i)	# To find the maximum of marks using the list method sort.
 ''' 
 Program to mark the maximum of marks using the list method sort
-Developed by: harihashree
+Developed by: harithashree
 RegisterNumber: 22003707
 '''
 ```
@@ -29,7 +29,7 @@ ii)	# To find the maximum marks using the list method max().
 ```
 ''' 
 Program to find the maximum marks using the list method max().
-Developed by: harihashree
+Developed by: harithashree
 RegisterNumber: 22003707
 '''
 def max_marks(marks):
